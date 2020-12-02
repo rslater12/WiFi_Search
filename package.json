@@ -1,0 +1,17 @@
+{
+  "name": "wifi_search",
+  "version": "0.0.1",
+  "description": "search for wifi",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wifi"
+  ],
+  "author": "R.Slater",
+  "license": "ISC",
+  "dependencies": {
+    "node-wifi": "^2.0.13"
+  }
+}
